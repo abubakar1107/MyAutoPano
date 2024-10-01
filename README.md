@@ -52,10 +52,6 @@ python Train_unsupervised.py
 
 All result images are stored in the `results/` folder.
 
-## Contributors
-- **Abubakar Siddiq**  
-- **Gayatri Davuluri**  
-- **Srividya Ponnada**
 
 ## References
 1. DeTone, Daniel, et al. "Deep image homography estimation."
